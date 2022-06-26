@@ -1,0 +1,35 @@
+.container {
+    background-color: rgb(228, 149, 91);
+    font-family: Helvetica, sans-serif;
+    color: white;
+    text-align: center;
+    
+}
+
+
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+ul {
+    list-style: none;
+    text-transform: uppercase;
+    margin-top: 5em;
+    background-color: white;
+    
+    
+}
+
+
+a {
+    
+    color: rgb(0, 0, 0);
+    padding: .75em;
+    display: block;
+    text-decoration: none;
+
+    
+}
