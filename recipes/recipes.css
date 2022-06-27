@@ -1,0 +1,58 @@
+header {
+    text-align: center;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+.container {
+    /*background-color: rgb(211, 219, 230);*/
+    background: rgb(238,87,87);
+    background: linear-gradient(0deg, rgba(238,87,87,1) 0%, rgba(253,125,45,1) 0%, rgba(255,252,0,0.8211659663865546) 100%);
+
+    font-size: 20px;
+
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+    height: auto;
+}
+
+
+h4, .description {
+    text-align: center;
+}
+
+.flex-container {
+    display: flex;
+    margin: 0 10rem;
+    
+}
+
+.ingredients {
+    flex: 1;
+    margin: 0 10rem;
+    border-radius: 10px;
+    
+}
+
+.steps{
+    flex: 1;
+    border-radius: 10px;
+      
+}
+.return-top {
+    text-align: center;
+    
+}
+
