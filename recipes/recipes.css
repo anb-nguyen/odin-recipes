@@ -32,24 +32,35 @@ img {
 h4, .description {
     text-align: center;
 }
+.flex-description {
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
 
 .flex-container {
     display: flex;
     margin: 0 10rem;
     
+    
+}
+
+h3 {
+    text-align: center;
 }
 
 .ingredients {
     flex: 1;
     margin: 0 10rem;
     border-radius: 10px;
-    
+
 }
 
 .steps{
     flex: 1;
     border-radius: 10px;
-      
+
 }
 .return-top {
     text-align: center;
